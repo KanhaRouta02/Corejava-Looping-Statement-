@@ -3,8 +3,10 @@ package A_in.kanha.forloop;
 public class ExampleOfForLoop {
 
 	public static void main(String[] args) {
+		
+		
 //     
-//		1. print Hello java .. 5 times
+//		1. print "Hello java" .. 5 times
 //		===============================
 		
   
